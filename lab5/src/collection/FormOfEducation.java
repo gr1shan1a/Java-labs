@@ -1,4 +1,4 @@
-package ru.ifmo.se;
+package src.collection;
 
 public enum FormOfEducation {
     DISTANCE_EDUCATION,
