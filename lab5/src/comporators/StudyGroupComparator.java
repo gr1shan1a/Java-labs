@@ -3,7 +3,7 @@ package comporators;
 import collection.StudyGroup;
 import java.util.Comparator;
 
-public class StudyGroupComporator {
+public class StudyGroupComparator {
 
     public class CityComparator implements Comparator<StudyGroup> {
 
