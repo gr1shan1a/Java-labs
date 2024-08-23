@@ -12,4 +12,6 @@
 | [Laboratory work №7](lab5) |  	%	   | `/10`           | 	`/10`         |               |             | 	in process✏️ |
 | [Laboratory work №8](lab5) |   	%	   | `/10`           | 	`/10`         |               |             | 	in process✏️ |
 
+TO DO: upload 5 finished and 6
+
 
